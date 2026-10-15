@@ -25,7 +25,7 @@ Searches such as You.com AI search engine, You.com cited answers, and You.com mu
 | **Remembers context** | Threads, sources, and presets help you return to the next task fast. |
 | **Fast feedback** | Open You.com, ask a question, and read without switching tools. |
 
-![You.com](https://static-images.aptoide.com/_next/image?url=https%3A%2F%2Fcdn.aptoide.com%2Fimgs%2F4%2Ff%2F4%2F4f479a553f517044c8e789b7b4488e17_fgraphic.png&w=3840&q=60)
+![You.com](https://cdn.prod.website-files.com/687f2dca0cbe61df74670d5b/68ee2cb13dd7d3f72fc7fc7b_Default-1.webp)
 
 ## Key Features of You.com
 
